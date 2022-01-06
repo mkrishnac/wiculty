@@ -1,7 +1,7 @@
 public class Login()
 {
 
-  for(int i=10;i<130;i++)
+  for(int i=10;i<150;i++)
   {
 	  System.Out.Println("Numbers is:+",i);
   }
