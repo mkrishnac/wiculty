@@ -2,7 +2,8 @@
 public class Login()
 {
 
-	for(int i=10;i<50;i++)
+
+	for(int i=10;i<75;i++)
 	{
 		System.Out.Println("Number is:"+i);
 	}
