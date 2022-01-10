@@ -1,2 +1,2 @@
-for(int i=100)
+for(int i=1)
 
