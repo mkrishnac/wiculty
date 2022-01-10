@@ -1,1 +1,1 @@
-for(int i=30)
+for(int i=10)
