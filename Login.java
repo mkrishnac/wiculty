@@ -1,4 +1,4 @@
 
-for(int i=10)
+for(int i=5)
 
 
